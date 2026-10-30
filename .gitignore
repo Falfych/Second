@@ -1,0 +1,8 @@
+.vs/
+*.pyproj
+*.user
+*.suo
+log.xml
+
+__pycache__/
+*.pyc

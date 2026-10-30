@@ -1,0 +1,7 @@
+{
+  "package_name": "my_test_package",
+  "repo_path": "https://github.com",
+  "mode": "online",
+  "output_image_path": "output_graph.png",
+  "ascii_tree_path": "ascii_tree.txt"
+}
