@@ -1,5 +1,5 @@
 {
-  "package_name": "my_test_package",
+  "package_name": "flask",
   "repo_path": "https://github.com",
   "mode": "online",
   "output_image_path": "output_graph.png",
